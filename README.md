@@ -114,3 +114,10 @@
 | 1     | https://itanddigital.ru/interviewsecurity                        |
 | 2     | https://github.com/redteamcaptain/Pentesting-Interview-Questions |
 | 3     | https://t.me/pathsecure_chat                                     |
+
+# Контрибьюторы списком
+- https://t.me/cherepawwka
+- https://t.me/Haones
+- https://t.me/FuckingMoneyToiletPaper
+- https://t.me/zhatez
+- https://t.me/curiv
