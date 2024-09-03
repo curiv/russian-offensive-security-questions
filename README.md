@@ -193,6 +193,7 @@
 | 1 [x]     | https://itanddigital.ru/interviewsecurity                        |
 | 2 [x]    | https://github.com/redteamcaptain/Pentesting-Interview-Questions |
 | 4 [x]    | https://t.me/pain_test/64                                        |
+| 8 | https://youtu.be/JHDCoEDUfW0                                         |
 | N     | https://t.me/pathsecure_chat                                     |
 
 # Контрибьюторы списком
